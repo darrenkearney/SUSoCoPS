@@ -1,0 +1,25 @@
+{
+  "questions": {
+    "env": ["How will your company affect the environment?", ""],      
+    "sci": ["What will you use as a power source?", ""],
+    "bus": ["How will your company make the public more aware of environmental issues?"],
+  },
+
+  "answers": {
+    "env": ["My company will _", ],
+    "sci": ["We will use _."],
+    "bus": ["We will raise public awareness using"],
+  },
+
+  "positive-words": {
+    "env": ["Eco System", "Growth", "Organic", "Homemade", "Non-Dairy", "Sugar Free", "Wine", "Naturally Made", "Vegan", "Fund", "Paperless", "Holistic Missile"],
+    "sci": ["R+D", "Cloud", "Webservices", "Frameworks", "Arduino", "Drones", "3d Printed", "Paperless", "Factory", "Plant", "Industry", "G.M.O.", "Time Travel", "Space Exploration", "Asteroid Mining", "Moon Colony", "Mars Mission", "Free Open Source Software", "Military Contracts", "Funding", "Life Extention Technology"],
+    "bus": ["Touch Base", "Synergy", "Globalise", "Pop Up", "Fiscal", "Call to Action", "Profits", "A.B.C.", "SCRUM", "AGILE", "Growth", "Start up accelerator", "Outsourced", "Sweatshop", "Crowd Sourcing", "Investors", "Investment", "Venture Capital", "Returns", "Weapons", "War", "Social Engineering", "Big Data", "Analytics", "Utilise F.O.S.S.", "Crowd Funding", "Secret Societies", "Business Education", "Social Media Integration", "Unpaid Interns"],
+  },
+
+  "negative-words": {
+    "env": ["Pollution", "Toxic", "Waste", "Nuclear", "Irradiate", "Destroy", "Gluten", "Additives", "G.M.O.", "Dump", "Irreversible", "Damage", "Animal Product", "Gelatine", "Weapons Testing"],
+    "sci": ["Eugenics", "Religion", "Deadlines", "Homeopathy", "Holistic", "Naturally Made", "Chiropractic", "Military Application", "Alechemy", "Wizardry", "Magick",],
+    "bus": ["Concentration Camps", "Losses", "Morals", "Decency", "Fair Deal", "Honesty", "Competition", "Fair Price", "Funding", "Communism", "Espionage", "CSR", "Make F.O.S.S.", "Deep Web", "Darknet"],
+  }
+}
